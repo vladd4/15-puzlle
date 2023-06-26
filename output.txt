@@ -1,0 +1,11 @@
+You pressed solve button. K-ct operations: 18
+You pressed close button. K-ct operations: 0
+You pressed solve button. K-ct operations: 0
+You pressed close button. K-ct operations: 0
+You pressed close button. K-ct operations: 12
+You pressed scramble button. K-ct operations: 18
+You pressed scramble button. K-ct operations: 0
+You pressed solve button. K-ct operations: 0
+You pressed close button. K-ct operations: 0
+You pressed solve button. K-ct operations: 0
+You pressed close button. K-ct operations: 0
